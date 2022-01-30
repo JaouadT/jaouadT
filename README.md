@@ -1,4 +1,4 @@
-
+<!-- 
 ## Hi there 🤗👋, I'm Jaouad
 
 Welcome to my GitHub profile. My name is [**Jaouad Tagnamas**](https://github.com/JaouadT/), I am a Ph.D. student at [Sidi Mohamed ben Abdellah University](http://www.usmba.ac.ma/) (`USMBA`) [Faculty of Sciences Dhar El Mahraz](http://www.fsdmfes.ac.ma/) (`FSDM`), Fez - Morocco, and a junior Data Scientist. Before that, I obtained my Master degree from [`FSDM` - `USMBA`](http://www.fsdmfes.ac.ma/). My major research interest lies in the intersection of *Data Sciences* and *Computer Vision*.
@@ -97,3 +97,4 @@ You can [contact me](jaouad.tagnamas@usmba.ac.ma) if you think we could work tog
   </tr>
 </table>
 
+ -->
